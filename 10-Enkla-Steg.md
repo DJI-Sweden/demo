@@ -11,3 +11,5 @@ https://www.dji.com/se/mobile/simulator
 8. Kalibrera alltid kompassen och ställ in en bra höjd på RTH varje gång innan du lyfter
 9. Ha gärna en kompis med dig som ser till att ingen stör dig när du flyger och kan hjälpa till att upptäcka problem
 10. På de nyare modellerna är du begränsad till nybörjarläge den första tiden
+11. Extra punkt
+12. 
